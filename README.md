@@ -22,9 +22,17 @@
   <a href="https://github.com/jatin917" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/jatin917" target="blank">
+  <a href="https://www.linkedin.com/in/jatin-chandel-703a7b1ab/?originalSubdomain=in" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://jattuportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio Website">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+    alt="Portfolio" 
+    width="40" 
+    height="40"
+  />
+</a>
 </p>
 
 ---
@@ -61,8 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/material-ui/material-ui-icon.svg" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/49025313/233843110-41b76813-fbb4-4e90-a3d7-bf157397baa8.png" width="40" height="40" alt="Framer Motion" />
+<!--   <img src="https://www.vectorlogo.zone/logos/material-ui/material-ui-icon.svg" width="40" height="40" /> -->
+<!--   <img src="https://user-images.githubusercontent.com/49025313/233843110-41b76813-fbb4-4e90-a3d7-bf157397baa8.png" width="40" height="40" alt="Framer Motion" /> -->
 </p>
 
 ---
