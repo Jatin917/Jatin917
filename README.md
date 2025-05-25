@@ -27,7 +27,7 @@
   </a>
   <a href="https://jattuportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio Website">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+    src="https://jattuportfolio.netlify.app/assets/logo-color-Bza0Vrkz.png" 
     alt="Portfolio" 
     width="40" 
     height="40"
