@@ -75,15 +75,6 @@
 
 ---
 
-### 🌐 Other Stuff
-
-- 🔌 WebRTC / WebSockets fan
-- 🧱 Redis (queue-based processing, Pub/Sub)
-- 🧬 Monorepo structures with PNPM & NX
-- ⚙️ GitHub Actions, CI/CD pipelines
-
----
-
 ### 📈 GitHub Stats
 
 <p>
