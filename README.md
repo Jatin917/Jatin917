@@ -3,8 +3,9 @@
 
 <h3 align="left">👀 Profile Views:</h3>
 <p align="left">
-  <img src="https://profile-counter.glitch.me/jatin917/count.svg" alt="jatin917" />
+  <img src="https://komarev.com/ghpvc/?username=jatin917&label=Profile%20views&color=0e75b6&style=flat" alt="jatin917" />
 </p>
+
 
 ---
 
@@ -77,14 +78,14 @@
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin917&show_icons=true&theme=radical" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin917&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jatin917&theme=radical" alt="GitHub streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jatin917&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin917&layout=compact&theme=radical" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin917&layout=compact&theme=radical" alt="Top Languages" />
 </p>
