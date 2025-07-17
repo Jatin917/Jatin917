@@ -9,6 +9,10 @@
 
 ---
 
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### 🧠 About Me
 
 - 🔭 Currently working on real-time apps using WebRTC & WebSockets  
@@ -82,9 +86,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jatin917&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jatin917&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub commit streak](https://img.shields.io/badge/🔥%20Commit%20Streak%20-%20Active%20-%23e91e63?style=flat-square)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin917&layout=compact&theme=radical" alt="Top Languages" />
